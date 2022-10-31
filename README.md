@@ -4,11 +4,8 @@ App that rolls a dice using ImageView and a button layout
 
 
 
+<img width="1440" alt="Dicerollerapp1" src="https://user-images.githubusercontent.com/94327966/199092692-00324d18-ff5d-4f65-98a8-58dbd6f19d80.png">
 
 
 
-<img width="351" alt="Dicerollerapp" src="https://user-images.githubusercontent.com/94327966/199089837-de43a395-e94b-439d-af14-81080bd8768e.png">
 
-
-
-<img width="1440" alt="Skärmavbild 2022-10-31 kl  20 11 39" src="https://user-images.githubusercontent.com/94327966/199091065-0f43ffcd-d220-4d80-9e05-e94028fb33b6.png">
