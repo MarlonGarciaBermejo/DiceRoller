@@ -1,2 +1,2 @@
 # DiceRollet
-A app that rolls a dice using ImageView and a button layout
+App that rolls a dice using ImageView and a button layout
