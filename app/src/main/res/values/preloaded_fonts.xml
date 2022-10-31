@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/allan</item>
+        <item>@font/audiowide</item>
+        <item>@font/gochi_hand</item>
+        <item>@font/play</item>
+    </array>
+</resources>
