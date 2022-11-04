@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
         rollDice()
         rollButton.setOnClickListener {
             rollDice()
-            val toast =
         }
         }
 
