@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         rollDice()
         rollButton.setOnClickListener {
             rollDice()
-            val toast = Toast.makeText(this, "Dice Rolled!", Toast.LENGTH_SHORT).show()
+            val toast =
         }
         }
 
